@@ -1,0 +1,6 @@
+template: Hello, %s!
+defaultName: Stranger
+
+http:
+  port: 18081
+  adminPort: 18443

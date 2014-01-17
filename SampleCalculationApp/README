@@ -1,0 +1,5 @@
+go to check out project folder run the following commands on console
+>cd SampleCalculationApp
+SampleCalculationApp>mvn clean install
+SampleCalculationApp>java -jar target/SampleCalculationApp-0.0.1-SNAPSHOT.jar server sampleCalculation.yml
+now the SampleCalculationApp running 
